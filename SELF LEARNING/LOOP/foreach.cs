@@ -2,7 +2,7 @@ using System;
 class Program{
     static void Main(string[] args)
     {
-        /*
+        /* 
             The foreach Loop
             There is also a foreach loop, which is used exclusively to loop through elements in an array (or other data sets):
             Syntax
