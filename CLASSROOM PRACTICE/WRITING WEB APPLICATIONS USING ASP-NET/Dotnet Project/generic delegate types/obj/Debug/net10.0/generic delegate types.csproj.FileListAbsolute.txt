@@ -1,0 +1,14 @@
+C:\Users\adobe\source\repos\Dotnet Project\generic delegate types\obj\Debug\net10.0\generic delegate types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adobe\source\repos\Dotnet Project\generic delegate types\obj\Debug\net10.0\generic delegate types.AssemblyInfoInputs.cache
+C:\Users\adobe\source\repos\Dotnet Project\generic delegate types\obj\Debug\net10.0\generic delegate types.AssemblyInfo.cs
+C:\Users\adobe\source\repos\Dotnet Project\generic delegate types\obj\Debug\net10.0\generic delegate types.csproj.CoreCompileInputs.cache
+C:\Users\adobe\source\repos\Dotnet Project\generic delegate types\bin\Debug\net10.0\generic delegate types.exe
+C:\Users\adobe\source\repos\Dotnet Project\generic delegate types\bin\Debug\net10.0\generic delegate types.deps.json
+C:\Users\adobe\source\repos\Dotnet Project\generic delegate types\bin\Debug\net10.0\generic delegate types.runtimeconfig.json
+C:\Users\adobe\source\repos\Dotnet Project\generic delegate types\bin\Debug\net10.0\generic delegate types.dll
+C:\Users\adobe\source\repos\Dotnet Project\generic delegate types\bin\Debug\net10.0\generic delegate types.pdb
+C:\Users\adobe\source\repos\Dotnet Project\generic delegate types\obj\Debug\net10.0\generic delegate types.dll
+C:\Users\adobe\source\repos\Dotnet Project\generic delegate types\obj\Debug\net10.0\refint\generic delegate types.dll
+C:\Users\adobe\source\repos\Dotnet Project\generic delegate types\obj\Debug\net10.0\generic delegate types.pdb
+C:\Users\adobe\source\repos\Dotnet Project\generic delegate types\obj\Debug\net10.0\generic delegate types.genruntimeconfig.cache
+C:\Users\adobe\source\repos\Dotnet Project\generic delegate types\obj\Debug\net10.0\ref\generic delegate types.dll

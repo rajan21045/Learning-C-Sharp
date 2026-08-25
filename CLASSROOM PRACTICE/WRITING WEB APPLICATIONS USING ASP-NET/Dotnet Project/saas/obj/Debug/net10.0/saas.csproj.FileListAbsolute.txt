@@ -1,0 +1,14 @@
+C:\Users\adobe\source\repos\Dotnet Project\saas\bin\Debug\net10.0\saas.exe
+C:\Users\adobe\source\repos\Dotnet Project\saas\bin\Debug\net10.0\saas.deps.json
+C:\Users\adobe\source\repos\Dotnet Project\saas\bin\Debug\net10.0\saas.runtimeconfig.json
+C:\Users\adobe\source\repos\Dotnet Project\saas\bin\Debug\net10.0\saas.dll
+C:\Users\adobe\source\repos\Dotnet Project\saas\bin\Debug\net10.0\saas.pdb
+C:\Users\adobe\source\repos\Dotnet Project\saas\obj\Debug\net10.0\saas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adobe\source\repos\Dotnet Project\saas\obj\Debug\net10.0\saas.AssemblyInfoInputs.cache
+C:\Users\adobe\source\repos\Dotnet Project\saas\obj\Debug\net10.0\saas.AssemblyInfo.cs
+C:\Users\adobe\source\repos\Dotnet Project\saas\obj\Debug\net10.0\saas.csproj.CoreCompileInputs.cache
+C:\Users\adobe\source\repos\Dotnet Project\saas\obj\Debug\net10.0\saas.dll
+C:\Users\adobe\source\repos\Dotnet Project\saas\obj\Debug\net10.0\refint\saas.dll
+C:\Users\adobe\source\repos\Dotnet Project\saas\obj\Debug\net10.0\saas.pdb
+C:\Users\adobe\source\repos\Dotnet Project\saas\obj\Debug\net10.0\saas.genruntimeconfig.cache
+C:\Users\adobe\source\repos\Dotnet Project\saas\obj\Debug\net10.0\ref\saas.dll

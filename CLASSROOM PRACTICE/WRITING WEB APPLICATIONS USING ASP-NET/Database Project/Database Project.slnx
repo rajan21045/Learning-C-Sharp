@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Access DB/Access DB.csproj" Id="f59a52ce-d6fa-4e8e-be81-0f4df35da46f" />
+  <Project Path="AccessDB/AccessDB.csproj" Id="e7a8edde-054d-48dc-830e-c0bcbc6a78be" />
+  <Project Path="Database Project/Database Project.csproj" />
+  <Project Path="Sasin/Sasin.csproj" Id="00d5ed5f-5f58-44dd-b623-11df2d3d303d" />
+</Solution>

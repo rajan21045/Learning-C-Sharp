@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adobe\\source\\repos\\Dotnet Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC41909B-A96E-4BCF-833C-B58EA90C1C7D}|anonymous method\\anonymous method.csproj|c:\\users\\adobe\\source\\repos\\dotnet project\\anonymous method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC41909B-A96E-4BCF-833C-B58EA90C1C7D}|anonymous method\\anonymous method.csproj|solutionrelative:anonymous method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBF29FA-78E4-406A-AEEC-93F7CD9B9711}|Event\\Event.csproj|c:\\users\\adobe\\source\\repos\\dotnet project\\event\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBF29FA-78E4-406A-AEEC-93F7CD9B9711}|Event\\Event.csproj|solutionrelative:event\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553D884D-FEDF-4BFA-BD5A-743BAE7CFDAA}|ACTION DELEGATE\\ACTION DELEGATE.csproj|c:\\users\\adobe\\source\\repos\\dotnet project\\action delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553D884D-FEDF-4BFA-BD5A-743BAE7CFDAA}|ACTION DELEGATE\\ACTION DELEGATE.csproj|solutionrelative:action delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB519453-3206-4A0B-847B-C272E155D2CD}|func delegates\\func delegates.csproj|c:\\users\\adobe\\source\\repos\\dotnet project\\func delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB519453-3206-4A0B-847B-C272E155D2CD}|func delegates\\func delegates.csproj|solutionrelative:func delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D3ADB1-5A24-48F3-B8EB-582399626772}|generic delegate types\\generic delegate types.csproj|c:\\users\\adobe\\source\\repos\\dotnet project\\generic delegate types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D3ADB1-5A24-48F3-B8EB-582399626772}|generic delegate types\\generic delegate types.csproj|solutionrelative:generic delegate types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9039173-E78F-4C41-A02E-0CA9EFE6B850}|delegate compatibility\\delegate compatibility.csproj|c:\\users\\adobe\\source\\repos\\dotnet project\\delegate compatibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9039173-E78F-4C41-A02E-0CA9EFE6B850}|delegate compatibility\\delegate compatibility.csproj|solutionrelative:delegate compatibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53D51D7-941A-5D03-7C3A-140A172DAB2B}|Dotnet Project\\Dotnet Project.csproj|c:\\users\\adobe\\source\\repos\\dotnet project\\dotnet project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53D51D7-941A-5D03-7C3A-140A172DAB2B}|Dotnet Project\\Dotnet Project.csproj|solutionrelative:dotnet project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A83BA05-EBB0-4D32-86A3-FC59D67A70F2}|saas\\saas.csproj|c:\\users\\adobe\\source\\repos\\dotnet project\\saas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A83BA05-EBB0-4D32-86A3-FC59D67A70F2}|saas\\saas.csproj|solutionrelative:saas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adobe\\source\\repos\\Dotnet Project\\anonymous method\\Program.cs",
+              "RelativeDocumentMoniker": "anonymous method\\Program.cs",
+              "ToolTip": "C:\\Users\\adobe\\source\\repos\\Dotnet Project\\anonymous method\\Program.cs*",
+              "RelativeToolTip": "anonymous method\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T09:03:03.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adobe\\source\\repos\\Dotnet Project\\Event\\Program.cs",
+              "RelativeDocumentMoniker": "Event\\Program.cs",
+              "ToolTip": "C:\\Users\\adobe\\source\\repos\\Dotnet Project\\Event\\Program.cs",
+              "RelativeToolTip": "Event\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:52:53.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adobe\\source\\repos\\Dotnet Project\\ACTION DELEGATE\\Program.cs",
+              "RelativeDocumentMoniker": "ACTION DELEGATE\\Program.cs",
+              "ToolTip": "C:\\Users\\adobe\\source\\repos\\Dotnet Project\\ACTION DELEGATE\\Program.cs",
+              "RelativeToolTip": "ACTION DELEGATE\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:30:33.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adobe\\source\\repos\\Dotnet Project\\func delegates\\Program.cs",
+              "RelativeDocumentMoniker": "func delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\adobe\\source\\repos\\Dotnet Project\\func delegates\\Program.cs",
+              "RelativeToolTip": "func delegates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:24:21.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adobe\\source\\repos\\Dotnet Project\\generic delegate types\\Program.cs",
+              "RelativeDocumentMoniker": "generic delegate types\\Program.cs",
+              "ToolTip": "C:\\Users\\adobe\\source\\repos\\Dotnet Project\\generic delegate types\\Program.cs",
+              "RelativeToolTip": "generic delegate types\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:14:58.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adobe\\source\\repos\\Dotnet Project\\saas\\Program.cs",
+              "RelativeDocumentMoniker": "saas\\Program.cs",
+              "ToolTip": "C:\\Users\\adobe\\source\\repos\\Dotnet Project\\saas\\Program.cs",
+              "RelativeToolTip": "saas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T06:41:26.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adobe\\source\\repos\\Dotnet Project\\delegate compatibility\\Program.cs",
+              "RelativeDocumentMoniker": "delegate compatibility\\Program.cs",
+              "ToolTip": "C:\\Users\\adobe\\source\\repos\\Dotnet Project\\delegate compatibility\\Program.cs",
+              "RelativeToolTip": "delegate compatibility\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T06:43:25.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adobe\\source\\repos\\Dotnet Project\\Dotnet Project\\Program.cs",
+              "RelativeDocumentMoniker": "Dotnet Project\\Program.cs",
+              "ToolTip": "C:\\Users\\adobe\\source\\repos\\Dotnet Project\\Dotnet Project\\Program.cs",
+              "RelativeToolTip": "Dotnet Project\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:43:09.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

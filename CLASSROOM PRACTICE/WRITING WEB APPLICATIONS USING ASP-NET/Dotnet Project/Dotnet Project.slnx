@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="ACTION DELEGATE/ACTION DELEGATE.csproj" Id="553d884d-fedf-4bfa-bd5a-743bae7cfdaa" />
+  <Project Path="anonymous method/anonymous method.csproj" Id="dc41909b-a96e-4bcf-833c-b58ea90c1c7d" />
+  <Project Path="delegate compatibility/delegate compatibility.csproj" Id="f9039173-e78f-4c41-a02e-0ca9efe6b850" />
+  <Project Path="Dotnet Project/Dotnet Project.csproj" />
+  <Project Path="Event/Event.csproj" Id="bdbf29fa-78e4-406a-aeec-93f7cd9b9711" />
+  <Project Path="func delegates/func delegates.csproj" Id="eb519453-3206-4a0b-847b-c272e155d2cd" />
+  <Project Path="generic delegate types/generic delegate types.csproj" Id="36d3adb1-5a24-48f3-b8eb-582399626772" />
+  <Project Path="Lambda Expression/Lambda Expression.csproj" Id="39188a03-733d-4286-9b38-2944a6a5e7cf" />
+  <Project Path="saas/saas.csproj" Id="5a83ba05-ebb0-4d32-86a3-fc59d67a70f2" />
+</Solution>
