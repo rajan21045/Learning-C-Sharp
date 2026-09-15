@@ -3,6 +3,7 @@ enum month
 {
     jan, feb, mar, apr, may
 }
+
 class Program
 {
     static void Main()
